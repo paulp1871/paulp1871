@@ -1,4 +1,4 @@
-## hi, i'm [aul! 👋
+## hi, i'm paul! 👋
 
 i'm a cs student at the university of calgary who likes building things with code 🧑‍💻 and breaking problems down with data 📊. i’m especially into software engineering, data science, ml/ai, and how tech connects to bigger themes like geopolitics, security, and global power 🌍.
 
