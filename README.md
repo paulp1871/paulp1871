@@ -1,5 +1,5 @@
 ## hi, i'm paul! 👋
 
-i'm a cs student at the university of calgary who likes building things with code 🧑‍💻 and breaking problems down with data 📊. i’m especially into software engineering (full-stack development), data science, ml/ai, and how tech connects to bigger themes like geopolitics, security, and global power 🌍.
+i'm a cs student at the university of calgary who likes building things with code 🧑‍💻 and breaking problems down with data 📊. i’m especially into software engineering (full-stack development), data science, machine learning/ai, and how tech connects to bigger themes like finance, geopolitics, security, and global power 🌍.
 
 this github is where i experiment, learn new tools, and ship random projects!
